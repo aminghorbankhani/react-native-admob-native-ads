@@ -39,7 +39,7 @@
    "react-native-gesture-handler": "^1.6.1"
   },
   "peerDependencies": {
-    "react-native": "0.61.5"
+    "react-native": ">=0.61.5"
   },
   "private":false,
   "devDependencies": {
